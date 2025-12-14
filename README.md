@@ -2,6 +2,10 @@
 
 This project integrates **two machine learning models** — a MobileNet deep learning model and a Random Forest classifier — with a web frontend to provide real-time American Sign Language (ASL) letter recognition using webcam input.
 
+## Screenshot
+
+![ASL.ai Interface](screenshots/interface.png)
+
 ## Project Structure
 
 ```
